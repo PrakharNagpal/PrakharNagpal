@@ -36,10 +36,10 @@
 </a>
 </p>
 <p alighn="center">
-  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=PrakharNagpal&theme=dark" /></br>
+  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=PrakharNagpal&theme=light" /></br>
 </p>
 
-🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prakhar-nagpal-304838168/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
