@@ -35,7 +35,7 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PrakharNagpal&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<p alighn="center">
+<p align="center">
   <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=PrakharNagpal&theme=light" /></br>
 </p>
 
