@@ -36,7 +36,7 @@
 </a>
 </p>
 <p alighn="center">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PrakharNagpal&theme=dark" /></br>
+  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=PrakharNagpal&theme=dark" /></br>
 </p>
 
 🤝🏻 &nbsp;Connect with Me
