@@ -28,16 +28,16 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+<p align="center">
+  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=PrakharNagpal&theme=light" /></br>
+</p>
 <p align="center">
 <a href="https://github.com/PrakharNagpal">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PrakharNagpal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PrakharNagpal&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<p align="center">
-  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=PrakharNagpal&theme=light" /></br>
-</p>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
