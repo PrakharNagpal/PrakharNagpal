@@ -1,81 +1,92 @@
+<h2 align="center">Hi 👋, I'm Prakhar Nagpal</h2>
+<h4 align="center">
+Software Engineer | Mobile & Backend Developer | FinTech | MComp @ NUS
+</h4>
 
-<h2>Hey there! I'm Prakhar</h2>
+---
 
-<!-- ## 👋 &nbsp;Hey there! I'm Prakhar -->
+### 👨‍💻 About Me
 
-### 👨🏻‍💻 &nbsp;About Me
+- 🎓 Master of Computing (Computer Science) student at the **National University of Singapore**
+- 💼 Software Engineer with **2+ years of industry experience** in fintech and large-scale systems
+- 📱 Strong background in **mobile application development** (Android, Kotlin, Flutter)
+- ⚙️ Experience building **backend APIs and systems** handling **1M+ daily requests**
+- 🔐 Worked on **secure authentication**, real-time data processing, and scalable architectures
+- 🏆 Recipient of multiple **engineering awards** for product launches and system reliability
+- 🌱 Currently deepening knowledge in **distributed systems, system design, and scalable software**
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at SRM Institute of Science and Technology.\
-🌱 &nbsp;I'm on track for learning more about Flutter Development and Data Science.\
-✍️ &nbsp;In my free time, I explore new technologies and stuff as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at pn8759@srmist.edu.in! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1-Elvfq1jMTIwFtWUNPOWIbCQUFsrb5c0/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+---
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+### 🛠️ Tech Stack
 
-### 🛠 &nbsp;Tech Stack
+**Languages**  
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java)
+![Kotlin](https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=kotlin)
+![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart)
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
+![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=cplusplus)
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Flutter](https://camo.githubusercontent.com/1994e9cf3b0ad01831975faafe9e8c7ead09cf24b8d5fb6ca45a5d38b4d33549/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
+**Mobile & Frontend**  
+![Android](https://img.shields.io/badge/Android-05122A?style=flat&logo=android)
+![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-05122A?style=flat)
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)
 
-### ⚙️ &nbsp;GitHub Analytics
+**Backend & Systems**  
+![REST APIs](https://img.shields.io/badge/REST%20APIs-05122A?style=flat)
+![CI/CD](https://img.shields.io/badge/CI/CD-05122A?style=flat)
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-05122A?style=flat)
+
+---
+
+### 🚀 Experience Highlights
+
+- 📈 Built and scaled applications serving **20K+ DAU / 180K+ MAU**
+- ⚡ Reduced system latency by **25%** through backend and API optimizations
+- 🔐 Architected secure authentication systems used by **80K+ users**
+- 🔄 Developed APIs handling **1M+ requests/day** with high reliability
+- 🎉 Delivered high-traffic festive features supporting **20K+ concurrent users**
+- 🏆 Awarded for engineering excellence and handling **2–3× traffic spikes**
+
+---
+
+### 📂 Selected Projects
+
+- **ISD-CIA (Kotlin)**  
+  Unified B2B mobile application integrating multiple business workflows for dealers and enterprise users.
+
+- **Bunkerfit (Flutter)**  
+  Health & wellness application with **100K+ downloads**, cross-platform support, and scalable architecture.
+
+- **UIDAI e-KYC Integration**  
+  Implemented biometric and face-auth verification reducing processing time by **40%**.
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=PrakharNagpal&theme=light" /></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=PrakharNagpal&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharNagpal&layout=compact&theme=default" height="165"/>
 </p>
-<p align="left">
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/prakhar-nagpal-304838168/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:pn8759@srmist.edu.in">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 <a href="https://github.com/PrakharNagpal">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PrakharNagpal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PrakharNagpal&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
+---
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/prakhar-nagpal-304838168/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:pn8759@srmist.edu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/nagpal_prakhar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://aarshsapratechblogs.blogspot.com//"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
-
-</p>
-
-
-
-<!--### Hi there 👋,
-My name's Prakhar Nagpal, currently a second year student pursuing B.Tech from SRM Institute of Science and Technology in the field of Computer Science. Currently, I am a Flutter app developer enhancing my skills more by making a few projects. </br>
-
-- 🔭 I’m currently working on - Making efficient Flutter Applications </br>
-- 👯 I’m looking to collaborate on - Flutter App development projects
-- 💬 Ask me about - Dart, Python, C++ ,Java, C
-- 😄 Pronouns: He/Him, They/Them
-- 📫 How to reach me: <a href= "https://www.linkedin.com/in/prakhar-nagpal-304838168/">LinkedIn</a>
-
-
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PrakharNagpal&theme=dark" /></br>
-![Prakhar's github stats](https://github-readme-stats.vercel.app/api?username=PrakharNagpal&count_private=true&show_icons=true&icon_color=2f80ed)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharNagpal&theme=radical)](https://github.com/PrakharNagpal/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=PrakharNagpal&color=blue)
-<!--
-  **PrakharNagpal/PrakharNagpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Always open to meaningful collaborations, research projects, and software engineering internships.*
