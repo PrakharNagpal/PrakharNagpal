@@ -79,7 +79,7 @@ Software Engineer | Mobile & Backend Developer | FinTech | MComp @ NUS
 <a href="https://www.linkedin.com/in/prakhar-nagpal-304838168/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:pn8759@srmist.edu.in">
+<a href="mailto:nagpalprakhar22@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/PrakharNagpal">
