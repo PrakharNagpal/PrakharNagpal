@@ -66,10 +66,12 @@ Software Engineer | Mobile & Backend Developer | FinTech | MComp @ NUS
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrakharNagpal&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharNagpal&layout=compact&langs_count=6" height="165"/>
-</p>
+</p> -->
+  <img src="https://streak-stats.demolab.com?user=PrakharNagpal" height="165"/>
+
 
 ---
 
