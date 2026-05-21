@@ -16,9 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrakharNagpal&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
@@ -141,3 +138,7 @@ System Design        █████████████████░░�
 Mobile Architecture  ██████████████████░░
 Backend Engineering  ████████████████░░░░
 Scalable APIs        █████████████████░░░
+
+
+🤝 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/prakhar-nagpal-304838168/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:nagpalprakhar22@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/PrakharNagpal"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /> </a> </p>
