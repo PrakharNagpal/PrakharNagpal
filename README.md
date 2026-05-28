@@ -97,7 +97,7 @@ I am a **Software Engineer** and **Master of Computing student at the National U
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=PrakharNagpal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=7200" 
     height="165" 
@@ -108,7 +108,7 @@ I am a **Software Engineer** and **Master of Computing student at the National U
     height="165" 
     alt="Prakhar's Top Languages"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img 
