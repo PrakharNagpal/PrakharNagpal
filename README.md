@@ -10,18 +10,18 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/prakhar-nagpal-304838168/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:nagpalprakhar22@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/PrakharNagpal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=PrakharNagpal&label=Profile+Views&color=7aa2f7&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=PrakharNagpal&label=Profile+Views&color=7aa2f7&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -61,25 +61,25 @@ prakhar = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,python,dart,cs,cpp,js,ts&perline=8"/>
+<img src="https://skillicons.dev/icons?i=kotlin,java,python,dart,cs,cpp,js,ts&perline=8" alt="Programming Languages"/>
 
 <br/>
 
 **Frameworks & Development**
 
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,nextjs,fastapi,dotnet&perline=8"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,nextjs,fastapi,dotnet&perline=8" alt="Frameworks"/>
 
 <br/>
 
 **Databases & Cloud**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,aws,azure&perline=8"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,aws,azure&perline=8" alt="Databases and Cloud"/>
 
 <br/>
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,linux,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,linux,vscode&perline=8" alt="Development Tools"/>
 
 </div>
 
@@ -122,9 +122,9 @@ A secure identity verification solution integrating biometric and face authentic
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=PrakharNagpal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage"
+  src="https://github-readme-stats.vercel.app/api?username=PrakharNagpal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=percentile&show=prs_merged,prs_merged_percentage"
   width="48%"
-  alt="GitHub Stats"
+  alt="GitHub Stats including merged PRs and percentile rank"
 />
 
 <img
@@ -138,7 +138,7 @@ A secure identity verification solution integrating biometric and face authentic
 <img
   src="https://streak-stats.demolab.com?user=PrakharNagpal&theme=tokyonight&hide_border=true"
   width="48%"
-  alt="GitHub Streak"
+  alt="GitHub Contribution Streak"
 />
 
 </div>
