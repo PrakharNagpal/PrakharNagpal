@@ -3,9 +3,9 @@
 
 # Hey there! 👋 I'm Prakhar
 
-### Software Engineer • Building things for mobile, web & beyond
+### Software Engineer • Mobile & Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Mobile+%26+Backend+Engineer;I+build+things+that+solve+problems;Kotlin+%7C+Flutter+%7C+Python+%7C+React;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Mobile+%26+Backend+Engineer;Building+things+that+solve+problems;Kotlin+%7C+Flutter+%7C+Python+%7C+React;Always+learning%2C+always+building" alt="Typing SVG" />
 
 <br/>
 
@@ -63,19 +63,19 @@ prakhar = {
 
 <img src="https://skillicons.dev/icons?i=kotlin,java,python,dart,cs,cpp,js,ts&perline=8"/>
 
-<br/><br/>
+<br/>
 
 **Frameworks & Development**
 
 <img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,nextjs,fastapi,dotnet&perline=8"/>
 
-<br/><br/>
+<br/>
 
 **Databases & Cloud**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,aws,azure&perline=8"/>
 
-<br/><br/>
+<br/>
 
 **Tools**
 
@@ -85,111 +85,63 @@ prakhar = {
 
 ---
 
+### 🚀 Things I've Built
+
+**🛡️ Covenant — AI-Powered Engineering Decision Guardian**
+
+A developer tool that connects engineering decisions from Slack, Notion, GitHub, and Linear, and flags code changes that may contradict them.
+
+**🛍️ ShopTheReel — AI Shopping Agent**
+
+An AI shopping assistant that helps users discover products from Instagram Reels and get recommendations based on what they already own.
+
+🏆 *Most Worthwhile Problem — Agentic Buildathon, Singapore*
+
+**📖 [In Their Words](https://github.com/PrakharNagpal/GAI-STORIES) — Storytelling Platform**
+
+A content-driven storytelling website built using Nuxt 4 and Sanity, with dynamically managed content and a responsive interface.
+
+[Live Demo](https://gai-stories.vercel.app/) · [GitHub Repository](https://github.com/PrakharNagpal/GAI-STORIES)
+
+**📱 ISD-CIA — Enterprise Mobile Application**
+
+A Kotlin-based B2B Android application integrating business workflows, authentication, and enterprise services.
+
+**🏋️ Bunkerfit — Health & Wellness App**
+
+A cross-platform Flutter application focused on health and fitness, with over 100K downloads.
+
+**🔐 UIDAI e-KYC Integration**
+
+A secure identity verification solution integrating biometric and face authentication into Android applications.
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=PrakharNagpal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage"
-  width="65%"
-  alt="GitHub Stats including merged PRs and percentile rank"
+  width="48%"
+  alt="GitHub Stats"
 />
 
-<br/><br/>
-
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharNagpal&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
-  width="45%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharNagpal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  width="38%"
   alt="Top Languages"
 />
 
-<br/><br/>
+<br/>
 
 <img
   src="https://streak-stats.demolab.com?user=PrakharNagpal&theme=tokyonight&hide_border=true"
-  width="65%"
-  alt="Contribution Streak"
+  width="48%"
+  alt="GitHub Streak"
 />
 
 </div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharNagpal&theme=tokyo-night&hide_border=true&area=true"
-  width="100%"
-  alt="Contribution Activity Graph"
-/>
-
-</div>
-
----
-
-### 🔍 More GitHub Insights
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrakharNagpal&theme=tokyonight"
-  width="95%"
-  alt="Profile Summary"
-/>
-
-<br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrakharNagpal&theme=tokyonight"
-  width="45%"
-  alt="Repos per Language"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrakharNagpal&theme=tokyonight"
-  width="45%"
-  alt="Most Committed Languages"
-/>
-
-<br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrakharNagpal&theme=tokyonight"
-  width="45%"
-  alt="Contribution Stats"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrakharNagpal&theme=tokyonight&utcOffset=8"
-  width="45%"
-  alt="Productive Time"
-/>
-
-</div>
-
----
-
-### 🚀 Things I've Built
-
-<div align="center">
-
-<a href="https://github.com/PrakharNagpal/GAI-STORIES">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PrakharNagpal&repo=GAI-STORIES&theme=tokyonight&hide_border=true" alt="GAI Stories"/>
-</a>
-
-</div>
-
-<br/>
-
-**🛡️ Covenant** — Helping engineering teams catch code changes that contradict past decisions.
-
-**🛍️ ShopTheReel** — Turning Instagram Reel discoveries into a conversational shopping experience.
-
-**📖 In Their Words** — A storytelling platform powered by Nuxt and Sanity.
-
-*More projects on the way...*
 
 ---
 
@@ -198,8 +150,8 @@ prakhar = {
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=PrakharNagpal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
-  width="100%"
+  src="https://github-profile-trophy.vercel.app/?username=PrakharNagpal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+  width="90%"
   alt="GitHub Trophies"
 />
 
