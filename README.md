@@ -1,186 +1,303 @@
-<h1 align="center">Hi 👋, I'm Prakhar Nagpal</h1>
 
-<h3 align="center">
-  Software Engineer | Mobile & Backend Developer | FinTech | MComp @ NUS
-</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prakhar-nagpal-304838168/">
-    <img src="https://img.shields.io/badge/LinkedIn-Prakhar%20Nagpal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nagpalprakhar22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/PrakharNagpal">
-    <img src="https://img.shields.io/badge/GitHub-PrakharNagpal-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
+# Hi 👋, I'm Prakhar Nagpal
+
+### Software Engineer | Mobile & Backend Development | FinTech | MComp @ NUS
+
+Building reliable, scalable software that solves real-world problems.
+
+<a href="https://www.linkedin.com/in/prakhar-nagpal-304838168/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nagpalprakhar22@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/PrakharNagpal">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=PrakharNagpal&label=Profile%20Views&color=7aa2f7&style=flat-square" />
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineer** and **Master of Computing student at the National University of Singapore**, with **2+ years of industry experience** building mobile applications, backend APIs, and scalable systems in the fintech domain.
+I'm a **Software Engineer** pursuing a **Master of Computing (Computer Science) at the National University of Singapore**, with **2.5+ years of professional engineering experience**.
 
-- 🎓 Master of Computing, Computer Science — **National University of Singapore**
-- 💼 Software Engineer with experience in **fintech and large-scale systems**
-- 📱 Strong background in **Android, Kotlin, Flutter, and mobile architecture**
-- ⚙️ Built backend APIs and systems handling **1M+ daily requests**
-- 🔐 Worked on **secure authentication, real-time data processing, and scalable architectures**
-- 🏆 Recipient of multiple engineering awards for **product launches and reliability**
-- 🌱 Currently deepening knowledge in **distributed systems, system design, and scalable software engineering**
+Previously a **Senior Software Engineer at Bajaj Finserv**, where I worked on enterprise mobile applications, backend services, authentication systems, and large-scale fintech platforms.
+
+Currently working as a **Research Engineer at the NUS Health Informatics Lab**, contributing to digital health applications.
+
+I enjoy working across the entire software development lifecycle, from designing APIs and building applications to integrating systems, optimizing performance, and deploying production-ready solutions.
+
+- 🎓 **Education:** Master of Computing, NUS
+- 💼 **Experience:** FinTech, Enterprise Software & HealthTech
+- 📱 **Mobile:** Android, Kotlin, Jetpack Compose, Flutter
+- ⚙️ **Backend:** Python, FastAPI, .NET, REST APIs
+- 🔐 **Specialization:** Authentication, OAuth 2.0, Biometrics & e-KYC
+- ☁️ **Infrastructure:** Docker, AWS, Azure, CI/CD
+- 🤖 **Interests:** Applied AI, LLM Integrations, RAG & Developer Tools
+- 🌱 **Learning:** Distributed Systems, Cloud Architecture & System Design
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,python,cpp" alt="Java, Kotlin, Dart, Python, C++" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,python,cpp,cs,js,ts" />
 </p>
 
-### Mobile & Frontend
+### 📱 Mobile & Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,react" alt="Android Studio, Flutter, React" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,nextjs,html,css" />
 </p>
+
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Mobile Architecture](https://img.shields.io/badge/Mobile_Architecture-05122A?style=flat-square)
+
+### ⚙️ Backend & Databases
 
 <p>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-05122A?style=flat" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Android%20Architecture-05122A?style=flat" alt="Android Architecture" />
-  <img src="https://img.shields.io/badge/Cross--Platform%20Apps-05122A?style=flat" alt="Cross Platform Apps" />
+  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,postgres,mysql,firebase,supabase" />
 </p>
 
-### Backend, Tools & Platforms
+![REST APIs](https://img.shields.io/badge/REST_APIs-05122A?style=flat-square)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-05122A?style=flat-square)
+![Authentication](https://img.shields.io/badge/Secure_Authentication-05122A?style=flat-square)
+![SDK Development](https://img.shields.io/badge/SDK_Development-05122A?style=flat-square)
+
+### ☁️ Cloud, DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,azure" alt="Git, GitHub, Azure" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,githubactions,postman,linux" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/REST%20APIs-05122A?style=flat" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/CI%2FCD-05122A?style=flat" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/System%20Design-05122A?style=flat" alt="System Design" />
-  <img src="https://img.shields.io/badge/Scalable%20Systems-05122A?style=flat" alt="Scalable Systems" />
-  <img src="https://img.shields.io/badge/Secure%20Authentication-05122A?style=flat" alt="Secure Authentication" />
-</p>
+![CI/CD](https://img.shields.io/badge/CI%2FCD-05122A?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-05122A?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-05122A?style=flat-square)
+
+### 🤖 AI & Integrations
+
+![LLMs](https://img.shields.io/badge/LLM_Integrations-412991?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat-square)
+![API Integrations](https://img.shields.io/badge/API_Integrations-412991?style=flat-square)
 
 ---
 
-## 🚀 Experience Highlights
+## 💼 Professional Experience
 
-| Area | Impact |
-|---|---|
-| 📱 Mobile Engineering | Built and scaled applications serving **20K+ DAU / 180K+ MAU** |
-| ⚡ Performance Optimization | Reduced system latency by **25%** through backend and API optimizations |
-| 🔐 Authentication | Architected secure authentication systems used by **80K+ users** |
-| ⚙️ Backend APIs | Developed APIs handling **1M+ requests/day** with high reliability |
-| 🎉 High-Traffic Features | Delivered high-traffic festive/event features supporting **20K+ concurrent users** |
-| 🏆 Engineering Reliability | Awarded for engineering excellence and handling **2–3× traffic spikes** |
+### 🏥 Research Engineer — NUS Health Informatics Lab
+**National University of Singapore | Singapore**
 
----
+- Developing mobile applications for digital health research.
+- Contributing to **HealthRoots**, a health technology project in collaboration with KKH.
+- Working on application development, backend integrations, and usability improvements.
 
-## 📂 Selected Projects
+### 💳 Senior Software Engineer — Bajaj Finserv
+**FinTech | Enterprise Software**
 
-| Project | Tech Stack | Description |
-|---|---|---|
-| **ISD-CIA** | Kotlin, Android | Unified B2B mobile application integrating multiple business workflows for dealers and enterprise users. |
-| **Bunkerfit** | Flutter, Dart | Health and wellness application with **100K+ downloads**, cross-platform support, and scalable architecture. |
-| **UIDAI e-KYC Integration** | Android, APIs, Biometrics | Implemented biometric and face-auth verification, reducing processing time by **40%**. |
-
----
-
-## 📊 GitHub Analytics
-
-<!-- <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=PrakharNagpal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=7200" 
-    height="165" 
-    alt="Prakhar's GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharNagpal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" 
-    height="165" 
-    alt="Prakhar's Top Languages"
-  />
-</p> -->
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=PrakharNagpal&theme=tokyonight&hide_border=true" 
-    height="165" 
-    alt="Prakhar's GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrakharNagpal&theme=tokyonight" 
-    alt="Prakhar's GitHub Profile Summary"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharNagpal&theme=tokyo-night&hide_border=true" 
-    alt="Prakhar's GitHub Activity Graph"
-  />
-</p>
+- Developed and maintained enterprise mobile applications serving **20K+ daily active users and 180K+ monthly active users**.
+- Built and optimized backend APIs processing **1M+ requests per day**.
+- Reduced system latency by **25%** through API and backend optimizations.
+- Developed secure authentication workflows serving **80K+ users**.
+- Implemented biometric authentication and UIDAI e-KYC integrations.
+- Converted a production Android application into a reusable SDK integrated into an enterprise platform serving over **1 million users**.
+- Supported high-traffic features handling **20K+ concurrent users**.
+- Recognized for engineering excellence, successful product launches, and production reliability.
 
 ---
 
-## 🏆 GitHub Achievements
+## 🚀 Featured Projects
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=PrakharNagpal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" 
-    alt="Prakhar's GitHub Trophies"
-  />
-</p>
+### 🛡️ Covenant — AI-Powered Engineering Decision Guardian
+
+An AI-powered developer tool that helps engineering teams ensure their code stays aligned with decisions made across collaboration platforms.
+
+- Connects engineering context from Slack, Notion, GitHub, and Linear.
+- Identifies potential contradictions between code changes and past decisions.
+- Helps teams maintain consistency as software evolves.
+
+**Tech:** Python, FastAPI, Next.js, Supabase, LLMs
+
+### 🛍️ ShopTheReel — AI Shopping Agent
+
+**🏆 Most Worthwhile Problem — Agentic Buildathon, Singapore**
+
+An AI-powered shopping assistant that helps users discover and shop for products they see in Instagram Reels.
+
+- Enables product discovery through a conversational shopping experience.
+- Uses personal wardrobe context to make more relevant recommendations.
+- Built during a five-hour hackathon.
+
+### 📖 In Their Words — Content-Driven Storytelling Platform
+
+A dynamic storytelling website built with a modern headless CMS architecture.
+
+- Built using **Nuxt 4 and Sanity**.
+- Content is managed through Sanity without requiring code deployments.
+- Designed for responsive browsing and content management.
+
+**Tech:** Nuxt 4, Sanity, JavaScript
+
+[🌐 Live Demo](https://gai-stories.vercel.app/) · [💻 Source Code](https://github.com/PrakharNagpal/GAI-STORIES)
+
+### 📱 ISD-CIA — Enterprise Mobile Application
+
+A unified B2B Android application supporting business workflows for enterprise users and dealers.
+
+**Tech:** Kotlin, Android, REST APIs, Authentication
+
+### 🏋️ Bunkerfit — Health & Wellness Application
+
+A cross-platform health and wellness application with **100K+ downloads**.
+
+**Tech:** Flutter, Dart, Mobile Architecture
+
+### 🔐 UIDAI e-KYC Integration
+
+Developed secure biometric and face-authentication integrations, reducing verification processing time by **40%**.
+
+**Tech:** Android, Kotlin, Biometrics, REST APIs
 
 ---
 
-## 📌 Current Focus
+## 📊 GitHub Statistics
 
-```txt
-Distributed Systems  ████████████████░░░░
-System Design        █████████████████░░░
-Mobile Architecture  ██████████████████░░
-Backend Engineering  ████████████████░░░░
-Scalable APIs        █████████████████░░░
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=PrakharNagpal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+  height="170"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharNagpal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  height="170"
+  alt="Top Languages"
+/>
+
+<br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=PrakharNagpal&theme=tokyonight&hide_border=true"
+  height="170"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharNagpal&theme=tokyo-night&hide_border=true"
+  width="100%"
+  alt="GitHub Activity Graph"
+/>
+
+</div>
+
+---
+
+## 📊 Detailed GitHub Analytics
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrakharNagpal&theme=tokyonight"
+  width="95%"
+  alt="GitHub Profile Summary"
+/>
+
+<br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrakharNagpal&theme=tokyonight"
+  height="170"
+  alt="Repositories Per Language"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrakharNagpal&theme=tokyonight"
+  height="170"
+  alt="Most Used Commit Languages"
+/>
+
+<br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrakharNagpal&theme=tokyonight"
+  height="170"
+  alt="GitHub Contribution Statistics"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrakharNagpal&theme=tokyonight&utcOffset=8"
+  height="170"
+  alt="Productive Coding Hours"
+/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Most Worthwhile Problem Award** — Agentic Buildathon, Singapore
+- 🏅 Multiple engineering awards for product launches and reliability.
+- ⚡ Supported production systems through **2–3× traffic spikes**.
+- 📱 Contributed to applications serving hundreds of thousands of users.
+- 🔐 Built authentication and verification systems for enterprise-scale applications.
+
+---
+
+## 🎯 Current Focus
+
+```text
+Backend Engineering     ██████████████████░░
+Mobile Development      ███████████████████░
+Distributed Systems     ████████████████░░░░
+System Design           █████████████████░░░
+Cloud & DevOps          ███████████████░░░░░
+AI Integrations         ████████████████░░░░
 ```
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prakhar-nagpal-304838168/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="mailto:nagpalprakhar22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-  </a>
-  <a href="https://github.com/PrakharNagpal">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
-  </a>
-</p>
+I'm interested in building impactful software, exploring challenging engineering problems, and collaborating with people who enjoy creating useful technology.
 
----
+<div align="center">
 
-<p align="center">
-  <b>⭐ Always open to meaningful collaborations, research projects, and software engineering internships.</b>
-</p>
+<a href="https://www.linkedin.com/in/prakhar-nagpal-304838168/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<!--
-README widgets used:
-- shields.io: badges and labels
-- skillicons.dev: technology icons
-- github-readme-stats: GitHub stats and top languages
-- streak-stats.demolab.com: contribution streak
-- github-profile-summary-cards: profile summary card
-- github-readme-activity-graph: contribution activity graph
-- github-profile-trophy: achievement trophies
-- komarev.com/ghpvc: profile view counter
--->
+<a href="mailto:nagpalprakhar22@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/PrakharNagpal">
+  <img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**⭐ Open to Software Engineering Opportunities, Research Collaborations & Interesting Projects**
+
+</div>
