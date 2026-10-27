@@ -21,7 +21,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=PrakharNagpal&label=Profile+Views&color=7aa2f7&style=flat-square" alt="Profile Views"/>
 
 </div>
 
