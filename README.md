@@ -1,303 +1,218 @@
 
 <div align="center">
 
-# Hi 👋, I'm Prakhar Nagpal
+# Hey there! 👋 I'm Prakhar
 
-### Software Engineer | Mobile & Backend Development | FinTech | MComp @ NUS
+### Software Engineer • Building things for mobile, web & beyond
 
-Building reliable, scalable software that solves real-world problems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Mobile+%26+Backend+Engineer;I+build+things+that+solve+problems;Kotlin+%7C+Flutter+%7C+Python+%7C+React;Always+learning%2C+always+building" alt="Typing SVG" />
+
+<br/>
 
 <a href="https://www.linkedin.com/in/prakhar-nagpal-304838168/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:nagpalprakhar22@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/PrakharNagpal">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=PrakharNagpal&label=Profile%20Views&color=7aa2f7&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=PrakharNagpal&label=Profile+Views&color=7aa2f7&style=flat-square"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 A little about me
 
-I'm a **Software Engineer** pursuing a **Master of Computing (Computer Science) at the National University of Singapore**, with **2.5+ years of professional engineering experience**.
-
-Previously a **Senior Software Engineer at Bajaj Finserv**, where I worked on enterprise mobile applications, backend services, authentication systems, and large-scale fintech platforms.
-
-Currently working as a **Research Engineer at the NUS Health Informatics Lab**, contributing to digital health applications.
-
-I enjoy working across the entire software development lifecycle, from designing APIs and building applications to integrating systems, optimizing performance, and deploying production-ready solutions.
-
-- 🎓 **Education:** Master of Computing, NUS
-- 💼 **Experience:** FinTech, Enterprise Software & HealthTech
-- 📱 **Mobile:** Android, Kotlin, Jetpack Compose, Flutter
-- ⚙️ **Backend:** Python, FastAPI, .NET, REST APIs
-- 🔐 **Specialization:** Authentication, OAuth 2.0, Biometrics & e-KYC
-- ☁️ **Infrastructure:** Docker, AWS, Azure, CI/CD
-- 🤖 **Interests:** Applied AI, LLM Integrations, RAG & Developer Tools
-- 🌱 **Learning:** Distributed Systems, Cloud Architecture & System Design
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,python,cpp,cs,js,ts" />
-</p>
-
-### 📱 Mobile & Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,nextjs,html,css" />
-</p>
-
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Mobile Architecture](https://img.shields.io/badge/Mobile_Architecture-05122A?style=flat-square)
-
-### ⚙️ Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,postgres,mysql,firebase,supabase" />
-</p>
-
-![REST APIs](https://img.shields.io/badge/REST_APIs-05122A?style=flat-square)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-05122A?style=flat-square)
-![Authentication](https://img.shields.io/badge/Secure_Authentication-05122A?style=flat-square)
-![SDK Development](https://img.shields.io/badge/SDK_Development-05122A?style=flat-square)
-
-### ☁️ Cloud, DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,githubactions,postman,linux" />
-</p>
-
-![CI/CD](https://img.shields.io/badge/CI%2FCD-05122A?style=flat-square)
-![System Design](https://img.shields.io/badge/System_Design-05122A?style=flat-square)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-05122A?style=flat-square)
-
-### 🤖 AI & Integrations
-
-![LLMs](https://img.shields.io/badge/LLM_Integrations-412991?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat-square)
-![API Integrations](https://img.shields.io/badge/API_Integrations-412991?style=flat-square)
+```python
+prakhar = {
+    "location": "Singapore 🇸🇬",
+    "education": "MComp Computer Science @ NUS",
+    "background": ["FinTech", "HealthTech"],
+    "building_with": [
+        "Kotlin", "Flutter", "Python",
+        "FastAPI", "React", ".NET"
+    ],
+    "interests": [
+        "Mobile Engineering",
+        "Backend Systems",
+        "Developer Tools",
+        "AI Integrations"
+    ],
+    "currently_exploring": [
+        "Distributed Systems",
+        "System Design",
+        "Agentic AI"
+    ],
+    "fun_fact": "I enjoy turning random ideas into working products."
+}
+```
 
 ---
 
-## 💼 Professional Experience
+### 🛠️ Languages & Tools
 
-### 🏥 Research Engineer — NUS Health Informatics Lab
-**National University of Singapore | Singapore**
+<div align="center">
 
-- Developing mobile applications for digital health research.
-- Contributing to **HealthRoots**, a health technology project in collaboration with KKH.
-- Working on application development, backend integrations, and usability improvements.
+**Languages**
 
-### 💳 Senior Software Engineer — Bajaj Finserv
-**FinTech | Enterprise Software**
+<img src="https://skillicons.dev/icons?i=kotlin,java,python,dart,cs,cpp,js,ts&perline=8"/>
 
-- Developed and maintained enterprise mobile applications serving **20K+ daily active users and 180K+ monthly active users**.
-- Built and optimized backend APIs processing **1M+ requests per day**.
-- Reduced system latency by **25%** through API and backend optimizations.
-- Developed secure authentication workflows serving **80K+ users**.
-- Implemented biometric authentication and UIDAI e-KYC integrations.
-- Converted a production Android application into a reusable SDK integrated into an enterprise platform serving over **1 million users**.
-- Supported high-traffic features handling **20K+ concurrent users**.
-- Recognized for engineering excellence, successful product launches, and production reliability.
+<br/><br/>
 
----
+**Frameworks & Development**
 
-## 🚀 Featured Projects
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,nextjs,fastapi,dotnet&perline=8"/>
 
-### 🛡️ Covenant — AI-Powered Engineering Decision Guardian
+<br/><br/>
 
-An AI-powered developer tool that helps engineering teams ensure their code stays aligned with decisions made across collaboration platforms.
+**Databases & Cloud**
 
-- Connects engineering context from Slack, Notion, GitHub, and Linear.
-- Identifies potential contradictions between code changes and past decisions.
-- Helps teams maintain consistency as software evolves.
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,aws,azure&perline=8"/>
 
-**Tech:** Python, FastAPI, Next.js, Supabase, LLMs
+<br/><br/>
 
-### 🛍️ ShopTheReel — AI Shopping Agent
+**Tools**
 
-**🏆 Most Worthwhile Problem — Agentic Buildathon, Singapore**
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,linux,vscode&perline=8"/>
 
-An AI-powered shopping assistant that helps users discover and shop for products they see in Instagram Reels.
-
-- Enables product discovery through a conversational shopping experience.
-- Uses personal wardrobe context to make more relevant recommendations.
-- Built during a five-hour hackathon.
-
-### 📖 In Their Words — Content-Driven Storytelling Platform
-
-A dynamic storytelling website built with a modern headless CMS architecture.
-
-- Built using **Nuxt 4 and Sanity**.
-- Content is managed through Sanity without requiring code deployments.
-- Designed for responsive browsing and content management.
-
-**Tech:** Nuxt 4, Sanity, JavaScript
-
-[🌐 Live Demo](https://gai-stories.vercel.app/) · [💻 Source Code](https://github.com/PrakharNagpal/GAI-STORIES)
-
-### 📱 ISD-CIA — Enterprise Mobile Application
-
-A unified B2B Android application supporting business workflows for enterprise users and dealers.
-
-**Tech:** Kotlin, Android, REST APIs, Authentication
-
-### 🏋️ Bunkerfit — Health & Wellness Application
-
-A cross-platform health and wellness application with **100K+ downloads**.
-
-**Tech:** Flutter, Dart, Mobile Architecture
-
-### 🔐 UIDAI e-KYC Integration
-
-Developed secure biometric and face-authentication integrations, reducing verification processing time by **40%**.
-
-**Tech:** Android, Kotlin, Biometrics, REST APIs
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+### 📊 GitHub Stats
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=PrakharNagpal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-  height="170"
-  alt="GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=PrakharNagpal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage"
+  width="65%"
+  alt="GitHub Stats including merged PRs and percentile rank"
 />
 
+<br/><br/>
+
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharNagpal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharNagpal&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+  width="45%"
   alt="Top Languages"
 />
 
-<br/>
+<br/><br/>
 
 <img
   src="https://streak-stats.demolab.com?user=PrakharNagpal&theme=tokyonight&hide_border=true"
-  height="170"
-  alt="GitHub Streak"
+  width="65%"
+  alt="Contribution Streak"
 />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+### 📈 Contribution Graph
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharNagpal&theme=tokyo-night&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharNagpal&theme=tokyo-night&hide_border=true&area=true"
   width="100%"
-  alt="GitHub Activity Graph"
+  alt="Contribution Activity Graph"
 />
 
 </div>
 
 ---
 
-## 📊 Detailed GitHub Analytics
+### 🔍 More GitHub Insights
 
 <div align="center">
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrakharNagpal&theme=tokyonight"
   width="95%"
-  alt="GitHub Profile Summary"
+  alt="Profile Summary"
 />
 
 <br/>
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrakharNagpal&theme=tokyonight"
-  height="170"
-  alt="Repositories Per Language"
+  width="45%"
+  alt="Repos per Language"
 />
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrakharNagpal&theme=tokyonight"
-  height="170"
-  alt="Most Used Commit Languages"
+  width="45%"
+  alt="Most Committed Languages"
 />
 
 <br/>
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrakharNagpal&theme=tokyonight"
-  height="170"
-  alt="GitHub Contribution Statistics"
+  width="45%"
+  alt="Contribution Stats"
 />
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrakharNagpal&theme=tokyonight&utcOffset=8"
-  height="170"
-  alt="Productive Coding Hours"
+  width="45%"
+  alt="Productive Time"
 />
 
 </div>
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Most Worthwhile Problem Award** — Agentic Buildathon, Singapore
-- 🏅 Multiple engineering awards for product launches and reliability.
-- ⚡ Supported production systems through **2–3× traffic spikes**.
-- 📱 Contributed to applications serving hundreds of thousands of users.
-- 🔐 Built authentication and verification systems for enterprise-scale applications.
-
----
-
-## 🎯 Current Focus
-
-```text
-Backend Engineering     ██████████████████░░
-Mobile Development      ███████████████████░
-Distributed Systems     ████████████████░░░░
-System Design           █████████████████░░░
-Cloud & DevOps          ███████████████░░░░░
-AI Integrations         ████████████████░░░░
-```
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in building impactful software, exploring challenging engineering problems, and collaborating with people who enjoy creating useful technology.
+### 🚀 Things I've Built
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/prakhar-nagpal-304838168/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/PrakharNagpal/GAI-STORIES">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PrakharNagpal&repo=GAI-STORIES&theme=tokyonight&hide_border=true" alt="GAI Stories"/>
 </a>
 
-<a href="mailto:nagpalprakhar22@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</div>
 
-<a href="https://github.com/PrakharNagpal">
-  <img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br/>
 
-<br/><br/>
+**🛡️ Covenant** — Helping engineering teams catch code changes that contradict past decisions.
 
-**⭐ Open to Software Engineering Opportunities, Research Collaborations & Interesting Projects**
+**🛍️ ShopTheReel** — Turning Instagram Reel discoveries into a conversational shopping experience.
+
+**📖 In Their Words** — A storytelling platform powered by Nuxt and Sanity.
+
+*More projects on the way...*
+
+---
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=PrakharNagpal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
+  width="100%"
+  alt="GitHub Trophies"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's build something interesting!
+
+Always happy to connect, collaborate, or talk about software engineering and interesting ideas.
+
+**Code. Build. Break. Learn. Repeat. 🚀**
 
 </div>
